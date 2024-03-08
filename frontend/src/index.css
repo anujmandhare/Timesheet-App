@@ -1,0 +1,112 @@
+.input {
+	width: 100%;
+	margin-top: 20px;
+	padding-bottom: 10px;
+}
+
+.p-highlight {
+	background-color: white;
+}
+
+.p-disabled {
+	background-color: lightgray;
+}
+
+.page {
+	margin-top: 20px;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.width100px {
+	width: 100px;
+}
+
+.width200px {
+	width: 200px;
+}
+
+.width300px {
+	min-width: 300px;
+}
+
+.horizontalCenter {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.verticalCenter {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.getCenter {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.p-menubar {
+	background-color: #14b8a6;
+	border: 0px;
+	border-radius: 0;
+}
+
+.required {
+	color: red;
+}
+
+.full-screen-element {
+	width: 100%;
+	height: 100%;
+}
+
+.timesheet {
+	width: min-content;
+}
+
+.margintop5p {
+	margin-top: 5%;
+}
+
+.margintop10px {
+	margin-top: 10px;
+}
+
+.marginright10px {
+	margin-right: 10px;
+}
+
+.marginleft10px {
+	margin-left: 10px;
+}
+
+#NavBar {
+	background-color: #14b8a6;
+}
+
+table {
+	border-collapse: separate;
+	border-spacing: 15px; /* Adjust the spacing value as needed */
+}
+
+body,
+html {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+		"Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}

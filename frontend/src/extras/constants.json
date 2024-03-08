@@ -1,0 +1,30 @@
+{
+    "LOGIN": "/user/login",
+    "REGISTER": "/user/register",
+    "UPDATE": "/user/update",
+    "GET_TIMESHEET": "/timesheet/getTimesheet",
+    "ADD_TIMESHEET": "/timesheet/addTimesheet",
+    "UPDATE_TIMESHEET": "/timesheet/updateTimesheet",
+    "GET_ASSIGNMENTS": "/assignment/getAssignments",
+    "GET_DATES": "/assignment/getDates",
+    "DELETE_MENU_ITEM": "/menu/deleteMenuItem",
+    "GET_ALL_ORDERS": "/order/getAllOrders",
+    "PLACE_ORDER": "/order/placeOrder",
+    "UPDATE_STATUS": "/order/updateStatus",
+    "PRIMARY_COLOUR": "#6366F1",
+    "WHITE": "#ffffff",
+    "EMAIL": "EMAIL",
+    "NUMBER": "NUMBER",
+    "EMAIL_ERROR": "Please enter a valid Email Id",
+    "NUMBER_ERROR": "Please enter a valid Mobile Number",
+    "WEEK_DAYS": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+    ],
+    "URL": "http://localhost:8000"
+}
