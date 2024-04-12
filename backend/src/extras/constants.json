@@ -1,5 +1,5 @@
 {
-    "PORT": 8000,
+    "PORT": 8080,
     "SECRET": "Hello Google",
     "SALT_ROUNDS": 10,
     "STATUS_CODE": {
